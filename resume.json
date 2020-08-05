@@ -1,0 +1,174 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "skills": "Skills",
+    "education": "Education",
+    "work": "Work Experience",
+    "projects": "Projects"
+  },
+  "basics": {
+    "name": "Muhammad Umair Nasir",
+    "email": "umair.nasir146@gmail.com",
+    "phone": "+92 307 4994499",
+    "location": {
+      "address": "Multan, Pakistan"
+    },
+    "website": "www.linkedin.com/in/umair-nasir/"
+  },
+  "education": [
+    {
+      "institution": "Muhammad Ali Jinnah University",
+      "location": "Islamabad, Pakitan",
+      "area": "Electronics Engineering",
+      "studyType": "B.Sc",
+      "startDate": "Sep 2012",
+      "endDate": "Jun 2016"
+    },
+    {
+      "institution": "Punjab College for Information and Technology",
+      "location": "Multan, Pakistan",
+      "studyType": "F.Sc",
+      "area": "Pre-engineering",
+      "startDate": "Sep 2009",
+      "endDate": "Jun 2011"
+    },
+    {
+      "institution": "Multan Public School",
+      "location": "Multan, Pakistan",
+      "studyType": "Matric",
+      "startDate": "Sep 2007",
+      "endDate": "Jun 2009"
+    },
+    {}
+  ],
+  "work": [
+    {
+      "company": "Reliance Engineering Company",
+      "position": "Project Coordinator",
+      "website": "",
+      "endDate": "Jan 2020",
+      "highlights": [
+        "Coordinated supply team to the project team",
+        "Coordinated project team to the management",
+        "Managed supply and site expenses"
+      ],
+      "location": "Multan, Pakistan",
+      "startDate": "Dec 2018"
+    },
+    {
+      "highlights": [
+        "Worked on government projects such as PTV conversion from analogue to digital signal transmission",
+        "Supervised electrical and civil works of the project."
+      ],
+      "company": "ZTE corporation",
+      "position": "G & E Engineer",
+      "location": "Islamabad, Pakitan",
+      "startDate": "Aug 2017",
+      "endDate": "Oct 2018"
+    },
+    {
+      "highlights": [
+        "Worked on government projects such as WAPDA's high voltage lines intallation"
+      ],
+      "company": "Reliance Engineering Company",
+      "position": "Site Engineer",
+      "location": "Multan, Pakistan",
+      "startDate": "Aug 2016",
+      "endDate": "Aug 2017"
+    },
+    {
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Python",
+        "Octave",
+        "C++"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Tensorflow",
+        "Keras",
+        "Pandas",
+        "Numpy"
+      ],
+      "name": "Machine Learning Tools"
+    },
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "description": "A command line prediction of healthcare cost using linear regression as the machine learning technique",
+      "keywords": [
+        "Python",
+        "Machine Learning"
+      ],
+      "name": "Healthcare Cost Predictor",
+      "url": "https://github.com/umair-nasir14/healthcare-cost-predictor-freecodecamp-project"
+    },
+    {
+      "keywords": [
+        "Python",
+        "Machine Learning"
+      ],
+      "name": "Book Recommender System ",
+      "description": "A recommendation system using K Nearest Neighbour as the Machine Learning model",
+      "url": "https://github.com/umair-nasir14/MachineLearningFundamentalModels"
+    },
+    {
+      "keywords": [
+        "Python",
+        "Machine Learning"
+      ],
+      "name": "Cats and Dogs image classifier",
+      "description": "A classification between cats and dogs through Convolutional Neural Networks technique of Machine Learning",
+      "url": "https://github.com/umair-nasir14/MachineLearningFundamentalModels"
+    },
+    {
+      "keywords": [
+        "Python",
+        "Machine Learning"
+      ],
+      "name": "Weather Predictor",
+      "description": "A predictor using Hidden Markov Model technique of Machine Learning",
+      "url": "https://github.com/umair-nasir14/MachineLearningFundamentalModels"
+    },
+    {
+      "keywords": [
+        "C++",
+        "Arduino",
+        ""
+      ],
+      "name": "Sound Source Localizing Robot",
+      "description": "Made as the final year project, it detects the source of the particular frequency of sound through TDOA method of calculating distance of sound source."
+    },
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {}
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
