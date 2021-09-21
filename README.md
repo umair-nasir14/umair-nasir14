@@ -1,6 +1,6 @@
 Hi there visitor! Welcome to my portfolio.
 
-I am a Machine Learning enthusiast with an interest in neural networks👨‍💻:exclamation:
+I am an AI enthusiast with an interest in Evolutionary Computation and Neural Networks👨‍💻:exclamation:
 
 - 🔭 I'm an Intern Data Scientist at Aureks and looking to start off my career as ML engineer or Data Scientist.
 - 🌱 I’m currently a M.Sc AI candidate 
